@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-property-management-flutter",
+  "capabilityKey": "liberusoftware/real-estate-property-management",
+  "presentation": "mobile-flutter",
+  "package": "module_real_estate_property_management_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/real-estate/nextjs/property-management.md",
+  "presentationPlan": "projects/real-estate/flutter/property-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
